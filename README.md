@@ -7,4 +7,4 @@ Muallif: Sodik Saidov
 
 Youtube Kanalida taqdim etilgan video darslikning loyiha shakli.
 
-Darslikni ko'rish uchun [YOUTUBE](youtube.com/sodiksaidov) linkiga bosing. 
+Darslikni ko'rish uchun [YOUTUBE VIDEO](youtube.com/sodiksaidov) linkiga bosing. 
